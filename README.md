@@ -8,7 +8,7 @@
 
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="Redshift (AWS)"/>
 
-  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" title="Airflow"/>
+  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/apacheairflow/apacheairflow-original.svg" title="Airflow"/>
 
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker"/>
 
